@@ -1,11 +1,11 @@
 title:        Carlos Menezes
 tagline:      'Carlos Blog'
 description:  'Web developer searching new technologies.'
-url:          http://andhyde.com
+url:          http://carlosalbertogmenezes.github.io/
 version:      0.0.1
 author:
-  name:       'carlos'
-  email:      'carlosalbertogmenezes@gmail.com'
+  name:       ''
+  email:      ''
 markdown:     rdiscount
 permalink:    pretty
 pygments:     true
