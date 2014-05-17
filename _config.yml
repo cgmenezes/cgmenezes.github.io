@@ -1,11 +1,11 @@
 title:        Carlos Menezes
 tagline:      'Carlos Menezes'
-description:  'Web developer searching new technologies.'
+description:  'A developer looking for new technologies.'
 url:          http://carlosalbertogmenezes.github.io/
-version:      0.0.1
+version:      0.0.2
 author:
-  name:       ''
-  email:      ''
+  name:       'carlosalbertogmenezes'
+  email:      'carlosalbertogmenezes@gmail.com'
 markdown:     rdiscount
 permalink:    pretty
 pygments:     true
