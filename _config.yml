@@ -3,9 +3,9 @@ tagline:      'Carlos Menezes'
 year:         2020
 description:  'A developer looking for new technologies.'
 url:          http://cgmenezes.github.io/
-version:      0.0.3
+version:      0.0.4
 author:
-  name:       'carlosalbertogmenezes'
+  name:       'Carlos Menezes'
   email:      'carlosalbertogmenezes@gmail.com'
 markdown:     rdiscount
 permalink:    pretty
