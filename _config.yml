@@ -7,7 +7,7 @@ version:      0.0.4
 author:
   name:       'Carlos Menezes'
   email:      'carlosalbertogmenezes@gmail.com'
-markdown:     rdiscount
+markdown:     kramdown
 permalink:    pretty
 pygments:     true
 paginate:     5
