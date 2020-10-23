@@ -9,7 +9,7 @@ author:
   email:      'carlosalbertogmenezes@gmail.com'
 markdown:     kramdown
 permalink:    pretty
-pygments:     true
+highlighter:  rouge
 paginate:     5
 
 encoding: UTF-8
